@@ -1,6 +1,6 @@
 var express = require("express");
 var exmobj=require("./exm");
-var obj=express();
+//var obj=express();
 
 
 
