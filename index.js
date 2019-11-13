@@ -16,7 +16,6 @@ obj.use(function(req, res, next) {
 obj.use(express.json());
 obj.use("/vehicles",exmobj);
 
-obj.listen(3537, function(){
-    console.log("Server Started on port  " + 3537 );
+
 })
 
